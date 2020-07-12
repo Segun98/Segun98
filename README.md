@@ -1,5 +1,9 @@
 ### Welcome! I have been expecting you 👋
 
+- Wrote my first line of code in July 2019.
+- I am currently working on getting better at JavaScript.
+- Open to Junior Front-End/MERN Roles
+
 <!--
 **Segun98/Segun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
