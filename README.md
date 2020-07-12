@@ -1,6 +1,6 @@
 ### Welcome! I have been expecting you 👋
 
-- Wrote my first line of code in July 2019.
+- Wrote my first line of code in July 2019 (1yr+).
 - I am currently working on getting better at JavaScript with Data Structures & Algorithms, Nodejs, Vuejs...
 - Open to Junior Front-End/MERN Roles
 
