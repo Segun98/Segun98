@@ -1,8 +1,8 @@
 ### Welcome! I have been expecting you 👋
 
 - Wrote my first line of code in July 2019.
+- I build stuff mostly with the MERN stack (REST/Graphql APIs)
 - I am currently working on getting better at JavaScript with Data Structures & Algorithms, Nodejs, Vuejs...
-- Open to Junior Front-End/MERN Roles
 
 <!--
 **Segun98/Segun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
