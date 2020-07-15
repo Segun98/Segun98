@@ -1,5 +1,6 @@
 ### Welcome! I have been expecting you 👋
 
+- Primarily a Front End Developer(Reactjs)
 - I build stuff mostly with the MERN stack (REST/Graphql APIs)
 - I am currently working on getting better at JavaScript with Data Structures & Algorithms, Nodejs, Vuejs...
 
