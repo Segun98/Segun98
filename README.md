@@ -3,7 +3,7 @@
 - Primarily a Front End Developer (Reactjs)
 - I build stuff mostly with the MERN stack (REST/Graphql APIs)
 - I am currently working on getting better at JavaScript with Data Structures & Algorithms, Nodejs, Vuejs...
-- Recently rebuilt my portfolio, check it out [https://segunos.tk](https://segunos.tk) ✨✨
+- Recently rebuilt my portfolio with Vuejs❤️, check it out [https://segunos.tk](https://segunos.tk) ✨✨
 
 <!--
 **Segun98/Segun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
