@@ -1,9 +1,9 @@
 #### Welcome! I have been expecting you 👋
 
-- Primarily a Front End Developer (Reactjs)
+- Primarily a Front End Developer (ReactJS)
 - I build stuff mostly with the M(P)ERN stack (REST/GraphQL APIs)
 - I love GraphQL and TypeScript!
-- I am currently working on getting better at JavaScript with Data Structures & Algorithms, Nodejs, Vuejs...
+- I am currently working on getting better at JavaScript with Data Structures & Algorithms, Nodejs and Vuejs...
 - Reading two books at the moment (I highly recommend): Javascript The Definitive Guide by David Flanagan and React Quickly: Painless Web Apps with React... by Azat Mardan 
 - Recently rebuilt my portfolio with Vuejs❤️, check it out [https://segunos.vercel.app](https://segunos.vercel.app)
 
