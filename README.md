@@ -1,6 +1,6 @@
 #### Welcome! I have been expecting you 👋
 
-- Primarily a Front End Developer (ReactJS)
+- Primarily a Front End Dev (ReactJS)
 - I build stuff mostly with the M(P)ERN stack (REST/GraphQL APIs)
 - I love GraphQL and TypeScript!
 - I am currently working on getting better at JavaScript with Data Structures & Algorithms, Nodejs and Vuejs...
