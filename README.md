@@ -4,12 +4,11 @@
 - I build stuff mostly with the P(M)ERN stack (REST/GraphQL APIs)
 - I love GraphQL and TypeScript!
 - I plan to learn PHP/Laravel and Nestjs this year and step up my Vuejs skills
-- Reading two books at the moment (I highly recommend): Javascript The Definitive Guide by David Flanagan and React Quickly: Painless Web Apps with React... by Azat Mardan 
 - Recently rebuilt my portfolio with Vuejs❤️, check it out [https://segunos.vercel.app](https://segunos.vercel.app)
 
 <!--
 **Segun98/Segun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- Reading two books at the moment (I highly recommend): Javascript The Definitive Guide by David Flanagan and React Quickly: Painless Web Apps with React... by Azat Mardan 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
