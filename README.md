@@ -3,7 +3,7 @@
 - Primarily a Front End Developer (ReactJS)
 - I build stuff mostly with the P(M)ERN stack (REST/GraphQL APIs)
 - I love GraphQL and TypeScript!
-- I plan to learn PHP/Laravel and Nestjs this year and step up my Vuejs skills
+- I plan to step up my Vuejs skills, improve on Nodejs and learn Laravel this year
 - Recently rebuilt my portfolio with Vuejs❤️, check it out [https://segunos.vercel.app](https://segunos.vercel.app)
 
 <!--
