@@ -4,7 +4,7 @@
 - I build stuff mostly with the P(M)ERN stack (REST/GraphQL APIs)
 - I love GraphQL and TypeScript!
 - I plan to step up my Vuejs skills, improve on Nodejs and learn Laravel this year
-- Recently rebuilt my portfolio with Vuejs❤️, check it out [https://segunos.vercel.app](https://segunos.vercel.app)
+- I have been building 'Partystore' for 5 months, read about it here => [Partystore](https://segunos.vercel.app/partystore)
 
 <!--
 **Segun98/Segun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
