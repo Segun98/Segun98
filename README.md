@@ -4,7 +4,7 @@
 - I build stuff mostly with the P(M)ERN stack (REST/GraphQL APIs)
 - I love GraphQL and TypeScript!
 - I plan to step up my Vuejs skills, improve on Nodejs, learn Nestjs and Laravel this year
-- I have been building 'Partystore' for 5 months, read about it here => [Partystore](https://segunos.vercel.app/partystore)
+- I have been building 'Tadlace' for 5 months, read about it here => [Tadlace](https://segunos.vercel.app/tadlace)
 
 <!--
 **Segun98/Segun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
