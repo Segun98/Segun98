@@ -1,9 +1,9 @@
 #### Welcome! I have been expecting you 👋
 
 - Primarily a Front End Developer (ReactJS)
-- I build stuff mostly with the P(M)ERN stack (REST/GraphQL APIs)
-- I love GraphQL and TypeScript!
-- I plan to step up my Vuejs skills, improve on Nodejs, learn Nestjs and Laravel this year
+- I build stuff mostly with the PERN stack (REST/GraphQL APIs)
+- I enjoy using GraphQL and TypeScript!
+- Learning Vuejs, Nestjs and Laravel, Improving on Nodejs
 - I have been building 'Tadlace' for 5 months, read about it here => [Tadlace](https://segunos.vercel.app/tadlace)
 
 <!--
