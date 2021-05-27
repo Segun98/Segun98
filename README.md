@@ -3,7 +3,6 @@
 - Primarily a Front End Developer (ReactJS/NextJS)
 - I build stuff mostly with the PERN stack (REST/GraphQL APIs)
 - I enjoy using GraphQL and TypeScript!
-- Currently taking courses on fullstack Nextjs, Typescript, GraphQL, Nodejs, Prisma etc.
 - I have been building 'Tadlace' for 5 months, read about it here => [Tadlace](https://segun.tech/tadlace)
 
 <!--
