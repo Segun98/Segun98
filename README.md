@@ -1,6 +1,6 @@
 #### Welcome! I have been expecting you 👋
 
-- Primarily a Front End Developer (ReactJS)
+- Primarily a Front End Developer (ReactJS/NextJS)
 - I build stuff mostly with the PERN stack (REST/GraphQL APIs)
 - I enjoy using GraphQL and TypeScript!
 - I have been building 'Tadlace' for 5 months, read about it here => [Tadlace](https://segun.tech/tadlace)
