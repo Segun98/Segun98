@@ -1,6 +1,6 @@
 #### Welcome! I have been expecting you 👋
 
-- Primarily a Front End Developer (ReactJS/NextJS)
+- Primarily a UI Engineer (ReactJS/NextJS)
 - I do back end stuff with Nestjs (express/fastify)
 - I enjoy using GraphQL and TypeScript!
 - I have been building 'Tadlace' for 5 months, read about it here => [Tadlace](https://segun.tech/tadlace)
