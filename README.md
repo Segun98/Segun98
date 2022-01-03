@@ -2,7 +2,7 @@
 
 - Primarily a UI Engineer (ReactJS/NextJS)
 - I do back end stuff with Nestjs (express/fastify)
-- I enjoy using GraphQL!
+- Love GraphQL!
 - ⚡ Fun fact: I studied Business in uni (BSc)
 
 <!--
