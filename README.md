@@ -1,7 +1,7 @@
 #### Welcome! I have been expecting you 👋
 
 - Primarily a UI Engineer (ReactJS/NextJS)
-- I do back end stuff with Nestjs (express/fastify)
+- I do back end stuff with Nestjs (express/fastify), TypeGraphQL and TypeORM. 
 - I love GraphQL!
 - 'Fun' fact: I studied Business in uni (BSc) ⚡ 
 - "The rule is that you are confused, the exception is that everything is clear."
