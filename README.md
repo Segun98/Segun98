@@ -3,8 +3,9 @@
 - Primarily a UI Engineer (ReactJS/NextJS)
 - I do back end stuff with Nestjs (express/fastify), TypeGraphQL and TypeORM. 
 - I love GraphQL!
+> The rule is that you are confused, the exception is that everything is clear.
 <!-- - 'Fun' fact: I studied Business in uni (BSc) ⚡  -->
-- "The rule is that you are confused, the exception is that everything is clear."
+
 
 <!--
 **Segun98/Segun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
