@@ -2,7 +2,7 @@
 
 - Primarily a UI Engineer (ReactJS/NextJS)
 - I do back-end stuff with Nestjs (express/fastify), TypeGraphQL and TypeORM. 
-- I love GraphQL!
+- I love GraphQL and Typescript!
 > The rule is that you are confused, the exception is that everything is clear.
 <!-- - 'Fun' fact: I studied Business in uni (BSc) ⚡  -->
 
