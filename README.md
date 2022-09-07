@@ -2,7 +2,7 @@
 
 - I am a full-stack Typescript engineer 
      - Front-end: ReactJS/NextJS
-     - Back-end: Nestjs (express/fastify), TypeGraphQL, TypeORM, AWS SQS...
+     - Back-end: Nestjs (express/fastify), TypeGraphQL, AWS...
 - I love GraphQL and Typescript!
 > The rule is that you are confused, the exception is that everything is clear.
 <!-- - 'Fun' fact: I studied Business in uni (BSc) ⚡  -->
