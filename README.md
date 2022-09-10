@@ -1,6 +1,6 @@
 #### Welcome! I have been expecting you 👋
 
-- I am a full-stack Typescript engineer 
+- I am a full-stack TypeScript/JavaScript engineer 
      - Front-end: ReactJS/NextJS
      - Back-end: Nestjs (express/fastify), TypeGraphQL, AWS...
 - I love GraphQL and Typescript!
