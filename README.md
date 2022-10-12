@@ -1,9 +1,10 @@
-#### Welcome! I have been expecting you 👋
-
+### Welcome! I have been expecting you 👋
+---
 - I am a full-stack TypeScript/JavaScript engineer 
      - Front-end: ReactJS/NextJS
      - Back-end: Nestjs (express/fastify), TypeGraphQL, AWS...
 - I love GraphQL and Typescript!
+---
 > The rule is that you are confused, the exception is that everything is clear.
 <!-- - 'Fun' fact: I studied Business in uni (BSc) ⚡  -->
 
