@@ -5,7 +5,7 @@
      - Back-end: NodeJS (express/fastify), TypeGraphQL, AWS...
 - I love GraphQL and Typescript!
 ---
-- The rule is that you are confused, the exception is that everything is clear.
+- Quote: The rule is that you are confused, the exception is that everything is clear.
 <!-- - 'Fun' fact: I studied Business in uni (BSc) ⚡  -->
 
 
