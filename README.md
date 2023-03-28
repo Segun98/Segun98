@@ -1,3 +1,9 @@
+
+
+> "The rule is that you are confused, the exception is that everything is clear"
+
+
+<!--
 ### Welcome! I have been expecting you 👋
 ---
 - I am a full-stack TypeScript/JavaScript engineer 
@@ -5,7 +11,7 @@
      - Back-end: NodeJS (express/fastify), TypeGraphQL, AWS...
 - I love GraphQL and Typescript!
 ---
-- Quote: The rule is that you are confused, the exception is that everything is clear.
+ -->
 <!-- - 'Fun' fact: I studied Business in uni (BSc) ⚡  -->
 
 
